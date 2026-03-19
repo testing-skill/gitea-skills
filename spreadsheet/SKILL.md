@@ -3,7 +3,7 @@ name: implementing-kanban-boards
 description: Guide for implementing Syncfusion .NET MAUI Kanban Board (SfKanban) control. Use this skill ALWAYS when user needs kanban boards, task management visualizations, workflow tracking, agile boards, or card-based task management in .NET MAUI applications. Covers installation, data binding with default and custom models, card customization, column configuration, workflow transitions, drag-and-drop events, sorting, localization, and visual styling including liquid glass effects.
 metadata:
   author: "Syncfusion Inc"
-  version: "1.6.9"
+  version: "1.6.10"
   category: "Data Visualization"
 ---
 
